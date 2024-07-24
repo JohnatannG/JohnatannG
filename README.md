@@ -1,4 +1,5 @@
-### Olá, me chamo Johnatan Gabriel, tenho 18 anos, estou no 1° período de Análise e Desenvolvimento de Sistemas, e pretendo ser um desenvolvedor Web.
+### Olá, me chamo Johnatan Gabriel - 
+Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
